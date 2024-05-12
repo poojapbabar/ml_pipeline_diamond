@@ -13,7 +13,8 @@ conda activate venv/
 pip install -r requirements.txt
 ```
 ### Step 4: Create a setup.py file
-``` This is to install the entire project as a package. Additionally, write a function to read the packages from requirements.txt. 
+```
+This is to install the entire project as a package. Additionally, write a function to read the packages from requirements.txt
 ```
 
 ### Step 5: Create a folder src
