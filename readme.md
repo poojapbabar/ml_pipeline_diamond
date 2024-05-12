@@ -1,12 +1,12 @@
 ## End-to-End Project Setup Steps:
 ### Step 1: Create a new environment
-'''
+```
 conda create -p venv python==3.8
 conda activate venv/
-'''
+```
 
-Step 2: Create a .gitignore file
-Create the file by right-clicking and include the venv in it.
+### Step 2: Create a .gitignore file
+```Create the file by right-clicking and include the venv in it.```
 
 Step 3: Create a requirements.txt file
 bash
